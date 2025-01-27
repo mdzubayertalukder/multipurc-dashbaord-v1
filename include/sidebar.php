@@ -46,7 +46,7 @@
           </i>
          </span>
          <span class="menu-title text-sm font-semibold text-gray-700 menu-item-active:text-primary menu-link-hover:!text-primary">
-          update Code
+          User
          </span>
          <span class="menu-arrow text-gray-400 w-[20px] shrink-0 justify-end ml-1 mr-[-10px]">
           <i class="ki-filled ki-plus text-2xs menu-item-show:hidden">
